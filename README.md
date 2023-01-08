@@ -1,6 +1,8 @@
 # Chemistry-Wordle
 Chemistry themed wordle
 
+NOTE: if there is every a newer version of this wordle, then you have to delete the old version of files and redownload the newer version files.
+
 HOW TO USE THIS WORDLE:
 
 Windows: 
@@ -18,3 +20,4 @@ Chromebook:
 6. paste these files into your file directory
 7. open the .html file of the wordle
 8. happy playing
+
