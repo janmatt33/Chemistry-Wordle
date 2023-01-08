@@ -1,6 +1,8 @@
 # Chemistry-Wordle
 Chemistry themed wordle
 
+NOW ONLINE VERSION: https://chemistrywordle.000webhostapp.com
+
 NOTE: if there is every a newer version of this wordle, then you have to delete the old version of files and redownload the newer version files.
 
 HOW TO USE THIS WORDLE:
